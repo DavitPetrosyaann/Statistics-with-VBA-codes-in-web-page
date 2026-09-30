@@ -1,0 +1,17 @@
+{
+  "name": "Master Logistics Orchestrator & Executive Dashboard",
+  "title": "Master Logistics Orchestrator & Executive Dashboard",
+  "description": "Executive logistics pipeline dashboard with supply chain statistics, status breakdowns, monthly price variance, arrival histograms, and Excel XLSM integration.",
+  "imageUrl": "https://master-orchestrator.prezento.am/preview-og.png",
+  "url": "https://master-orchestrator.prezento.am",
+  "projectType": "Dashboard & Pipeline",
+  "category": "Logistics",
+  "previewMeta": {
+    "title": "Master Logistics Orchestrator & Executive Dashboard",
+    "description": "Executive logistics pipeline dashboard with supply chain statistics, status breakdowns, monthly price variance, arrival histograms, and Excel XLSM integration.",
+    "imageUrl": "https://master-orchestrator.prezento.am/preview-og.png",
+    "url": "https://master-orchestrator.prezento.am"
+  },
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

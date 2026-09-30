@@ -1,0 +1,10 @@
+[
+  { "code": "SUP-101", "name": "JBS S.A. Global Meat Group", "country": "Brazil", "contact": "export@jbs.com.br" },
+  { "code": "SUP-102", "name": "BRF Brasil Foods S.A.", "country": "Brazil", "contact": "sales@brf-global.com" },
+  { "code": "SUP-103", "name": "Danish Crown A/S", "country": "Denmark", "contact": "info@danishcrown.com" },
+  { "code": "SUP-104", "name": "Vion Food Group N.V.", "country": "Netherlands", "contact": "trade@vionfood.com" },
+  { "code": "SUP-105", "name": "Tönnies Meat Group & Co.", "country": "Germany", "contact": "service@toennies.de" },
+  { "code": "SUP-106", "name": "MHP Agro-Industrial SE", "country": "Ukraine", "contact": "export@mhp.com.ua" },
+  { "code": "SUP-107", "name": "Marfrig Global Foods Ltda", "country": "Brazil", "contact": "beefsales@marfrig.com.br" },
+  { "code": "SUP-108", "name": "Animex Foods Sp. z o.o.", "country": "Poland", "contact": "animex@animex.pl" }
+]

@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Project: Master Logistics Orchestrator | Debug",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "npm run dev"
+    },
+    {
+      "name": "Project: Master Logistics Orchestrator | Release",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "npm run build && npm run preview -- --host 0.0.0.0 --port 3000"
+    }
+  ]
+}

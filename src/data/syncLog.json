@@ -1,0 +1,30 @@
+[
+  {
+    "sheetName": "Chicken",
+    "sourceFileStatus": "Waiting list-final for David.xlsm",
+    "lastUpdated": "29/09/2026 14:50",
+    "rowsCount": 45,
+    "status": "OK"
+  },
+  {
+    "sheetName": "Pork",
+    "sourceFileStatus": "Pork Waiting List.xlsm",
+    "lastUpdated": "29/09/2026 14:50",
+    "rowsCount": 120,
+    "status": "OK"
+  },
+  {
+    "sheetName": "Beef",
+    "sourceFileStatus": "Beef Waiting List.xlsm",
+    "lastUpdated": "29/09/2026 14:50",
+    "rowsCount": 85,
+    "status": "OK"
+  },
+  {
+    "sheetName": "Less Than 5 Days",
+    "sourceFileStatus": "Local Calculation Engine (Global)",
+    "lastUpdated": "29/09/2026 14:51",
+    "rowsCount": 14,
+    "status": "OK"
+  }
+]
